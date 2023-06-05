@@ -14,3 +14,4 @@ def setZeros(matrix: List[List[int]]) -> None:
             if(row[i] or col[j]):
                 matrix[i][j]=0
     return matrix
+setZeros()
