@@ -1,3 +1,4 @@
+# Coding Ninja
 def printPascal(n:int):
     # Write your code here.
     # Return a list of lists.
